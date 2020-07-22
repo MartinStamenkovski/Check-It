@@ -12,10 +12,10 @@ July 22 2020
 I (Martin Stamenkovski) built the Check It - Tasks & Reminders app as free app. This Service is provided by Martin Stamenkovski at no cost and is intended for use as is.
 
 ## 1.0 Information We Collect
-We don't collect any kind information about you, you are safe!
+I don't collect any kind information about you, you are safe!
 
 ### 1.1 Information from third parties
-We are using Firebase crash reporting tool, you can preview their policy [here](https://firebase.google.com/support/privacy)
+I'm using Firebase crash reporting tool, you can preview their policy [here](https://firebase.google.com/support/privacy)
 
 ### 1.2 Log Data
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
