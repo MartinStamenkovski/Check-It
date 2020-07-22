@@ -84,9 +84,11 @@ features                                  :
     fontawesome_icon_name                 : microphone
   
   - title                                 : Progress tracking
+    description                           : Best working day chart, track your rate for upcoming, overdue and completed tasks.
     fontawesome_icon_name                 : chart-pie
 
   - title                                 : Today extension
+    description                           : Check today scheduled tasks
     fontawesome_icon_name                 : calendar-day
 
 
