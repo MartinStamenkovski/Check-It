@@ -88,10 +88,13 @@ features                                  :
     description                           : Best working day chart, track your rate for upcoming, overdue and completed tasks.
     fontawesome_icon_name                 : chart-pie
 
-  - title                                 : Today extension
+  - title                                 : Today Widget
     description                           : Check today scheduled tasks
     fontawesome_icon_name                 : calendar-day
-
+  
+  - title : iOS 14 Widgets
+    description : Widgets for your home screen, track your progress and quickly view tasks in group of your choice.
+    fontawesome_icon_name : hat-wizard
 
 
 
