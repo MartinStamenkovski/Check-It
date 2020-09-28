@@ -5,7 +5,19 @@ include_in_header: true
 ---
 
 # Changelog
-
+# **Version 1.1.1**
+**New:**
+  - iOS 14 color picker, for more customization.
+  - Widgets for your home screen, track your progress and quickly view tasks in group of your choice.
+  - Set task in progress with long press.
+  - Scan documents with camera.
+  - Tasks grouping improved.
+  
+**Fix:**
+  - Split view on smaller devices may sometimes overlap with other content.
+  - When editing task no more jumpy screen.
+  - UI improvements in terms of color. 
+  
 # **Version 1.1.0**  
 **New:**
 - You can now add attachments to tasks. 🗂
