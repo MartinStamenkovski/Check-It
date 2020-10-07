@@ -15,6 +15,7 @@ include_in_header: true
   - Improved sharing capabilities.
   - Improved synchronization.
   - Multiple UI improvements.  
+
 # **Version 1.1.1**
 **New:**
   - iOS 14 color picker, for more customization.
