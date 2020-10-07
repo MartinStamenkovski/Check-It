@@ -5,16 +5,7 @@ include_in_header: true
 ---
 
 # Changelog
-# **Version 1.1.2**
-**New**:
-  - Adopted iOS 14 menus where applicable.
-  - Reorder groups to your liking.
-  - Image indicators if tasks have attachments or comments.
 
-**Fix**:
-  - Improved sharing capabilities.
-  - Improved synchronization.
-  - Multiple UI improvements.
 # **Version 1.1.1**
 **New:**
   - iOS 14 color picker, for more customization.
