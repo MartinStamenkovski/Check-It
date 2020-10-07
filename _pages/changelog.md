@@ -10,6 +10,7 @@ include_in_header: true
   - Adopted iOS 14 menus where applicable.
   - Reorder groups to your liking.
   - Image indicators if tasks have attachments or comments.
+  - Filter tasks by date, smart date detection.
 
 **Fix**:
   - Improved sharing capabilities.
