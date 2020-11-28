@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Changelog
-# **Version 1.1.2**
+# **Version 1.1.3**
 - Minor UI bug fixes.
 
 # **Version 1.1.2**
