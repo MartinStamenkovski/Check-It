@@ -6,6 +6,9 @@ include_in_header: true
 
 # Changelog
 # **Version 1.1.2**
+- Minor UI bug fixes.
+
+# **Version 1.1.2**
 **New**:
   - Adopted iOS 14 menus where applicable.
   - Reorder groups to your liking.
