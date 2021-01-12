@@ -5,6 +5,12 @@ include_in_header: true
 ---
 
 # Changelog
+# **Version 1.1.4**
+Fixed small bugs:
+  - Date in widget sometimes not showing.
+  - Sometimes attached images are not showing or are being shown as duplicates.
+  - And other small UI polishing.
+  
 # **Version 1.1.3**
 - Minor UI bug fixes.
 
