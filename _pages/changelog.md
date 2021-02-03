@@ -5,6 +5,8 @@ include_in_header: true
 ---
 
 # Changelog
+# **Version 2.0.1**
+Small bug fix, shared tasks not saving. 
 # **Version 2.0**
 CheckIt 2.0 is here!
 
