@@ -5,8 +5,12 @@ include_in_header: true
 ---
 
 # Changelog
+# **Version 2.0.2**
+Small polishings so everything runs smoothly.
+
 # **Version 2.0.1**
 Small bug fix, shared tasks not saving. 
+
 # **Version 2.0**
 CheckIt 2.0 is here!
 
@@ -17,6 +21,7 @@ CheckIt 2.0 is here!
 - Hide completed tasks, I know, finally.
 
 and of course bug fixes and improvements.
+
 # **Version 1.1.4**
 Fixed small bugs:
   - Date in widget sometimes not showing.
