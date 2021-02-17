@@ -5,6 +5,14 @@ include_in_header: true
 ---
 
 # Changelog
+# **Version 2.1.0**
+- Upcoming view is changed to also show overdue, in progress and upcoming.
+- Search is now more advanced with filter capabilities and reacting to external changes in real time.
+- Widgets are also improved to show more information, for example if task is in priority.
+- Fixed navigation bar on iPad.
+- Fixed Siri not opening correct task/group in app when clicked.
+- Sync is also improved for shared groups. 
+
 # **Version 2.0.2**
 Small polishings so everything runs smoothly.
 
