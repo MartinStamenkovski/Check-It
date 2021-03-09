@@ -5,6 +5,21 @@ include_in_header: true
 ---
 
 # Changelog
+# **Version 2.2.0**
+This update brings you more customizations, performance improvements and bug fixes.
+
+- You can now force popover presentation on iPad to reduce whole screen modality, this can be enabled in the app settings.
+- Keyboard shortcuts for your iPad to increase productivity.
+
+When we talk about productivity I'm happy to introduce you to continuous mode, it is used to create tasks quickly without leaving the task editing form. 
+This can be also enabled in the app settings, by default is disabled.
+
+- Comments are now more intelligent and can recognize links, emails and phone numbers.
+- Improved reminders synchronization across your devices.
+- Small UI polishings.
+
+If you have any recommendations on how to improve the app feel free to contact me.
+
 # **Version 2.1.0**
 - Upcoming view is changed to also show overdue, in progress and upcoming.
 - Search is now more advanced with filter capabilities and reacting to external changes in real time.
