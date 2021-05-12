@@ -5,6 +5,9 @@ include_in_header: true
 ---
 
 # Changelog
+# **Version 2.2.1**
+Stability and performance improvements
+
 # **Version 2.2.0**
 This update brings you more customizations, performance improvements and bug fixes.
 
