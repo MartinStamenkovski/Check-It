@@ -5,11 +5,15 @@ include_in_header: true
 ---
 
 # Changelog
+# **Version 2.2.2.**
+- Strike through on completed tasks will no longer be shown for better readability.
+- Small UI enhancements.
+
 # **Version 2.2.1**
-Stability and performance improvements
+- Stability and performance improvements
 
 # **Version 2.2.0**
-This update brings you more customizations, performance improvements and bug fixes.
+- This update brings you more customizations, performance improvements and bug fixes.
 
 - You can now force popover presentation on iPad to reduce whole screen modality, this can be enabled in the app settings.
 - Keyboard shortcuts for your iPad to increase productivity.
@@ -32,13 +36,13 @@ If you have any recommendations on how to improve the app feel free to contact m
 - Sync is also improved for shared groups. 
 
 # **Version 2.0.2**
-Small polishings so everything runs smoothly.
+- Small polishings so everything runs smoothly.
 
 # **Version 2.0.1**
-Small bug fix, shared tasks not saving. 
+- Small bug fix, shared tasks not saving. 
 
 # **Version 2.0**
-CheckIt 2.0 is here!
+- Check It 2.0 is here!
 
 - New app icons.
 - New widget that shows upcoming tasks.
