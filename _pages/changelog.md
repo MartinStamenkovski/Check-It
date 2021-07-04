@@ -5,6 +5,10 @@ include_in_header: true
 ---
 
 # Changelog
+# **Version 2.2.3**
+- Group reordering is now more reliable.
+- UI enhancements and other minor bug fixes.
+
 # **Version 2.2.2.**
 - Strike through on completed tasks will no longer be shown for better readability.
 - Small UI enhancements.
